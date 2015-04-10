@@ -1,0 +1,14 @@
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmDangnhap.resources
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\thangnmps02470.vbproj.GenerateResource.Cache
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHoadon.resources
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSanpham.resources
+C:\Users\jx2minhthang\Desktop\Thangnmps02470\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmThongtin.resources
